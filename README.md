@@ -20,7 +20,7 @@ This is a glimpse of the Mobile Printer project:
 
 
 Snap 1:
-![Snap 1](https://github.com/akulagrawal/Mobile-Printer/blob/master/Snapshots/abstract.jpg)
+![Snap 1](https://github.com/akulagrawal/Mobile-Printer/blob/master/Snapshots/abstract.png)
 
 Snap 2:
 ![Snap 2](https://github.com/akulagrawal/Mobile-Printer/blob/master/Snapshots/snap1.jpg)
