@@ -10,6 +10,9 @@ OS Requirements
 OS Requirements depend upon the version of Arduino software downloaded.
 
 
+---------------------------------------------------------------------------------------------------
+
+
 View Demo Video Here:  [Mobile Printer](https://youtu.be/Hl6UjFdA3Qk)
 
 
@@ -17,10 +20,10 @@ This is a glimpse of the Mobile Printer project:
 
 
 Snap 1:
-![Snap 1](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Snapshots/abstract.jpg)
+![Snap 1](https://github.com/akulagrawal/Mobile-Printer/blob/master/Snapshots/abstract.jpg)
 
 Snap 2:
-![Snap 2](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Snapshots/snap1.jpg)
+![Snap 2](https://github.com/akulagrawal/Mobile-Printer/blob/master/Snapshots/snap1.jpg)
 
 Snap 3:
-![Snap 3](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Snapshots/snap2.jpg)
+![Snap 3](https://github.com/akulagrawal/Mobile-Printer/blob/master/Snapshots/snap2.jpg)
