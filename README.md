@@ -20,8 +20,6 @@ This is a glimpse of the Mobile Printer project:
 
 
 Abstract:
-
-Snap 1:
 ![Snap 1](https://github.com/akulagrawal/Mobile-Printer/blob/master/Snapshots/abstract.png)
 
 Snap 2:
