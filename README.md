@@ -19,6 +19,8 @@ View Demo Video Here:  [Mobile Printer](https://youtu.be/Hl6UjFdA3Qk)
 This is a glimpse of the Mobile Printer project:
 
 
+Abstract:
+
 Snap 1:
 ![Snap 1](https://github.com/akulagrawal/Mobile-Printer/blob/master/Snapshots/abstract.png)
 
