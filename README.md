@@ -16,7 +16,7 @@ OS Requirements depend upon the version of Arduino software downloaded.
 View Demo Video Here:  [Mobile Printer](https://youtu.be/Hl6UjFdA3Qk)
 
 
-This is a glimpse of the Mobile Printer project:
+This is a glimpse of the Mobile Printer project, Have  a look:
 
 
 Abstract:
@@ -24,12 +24,12 @@ Abstract:
 
 ![Snap 1](https://github.com/akulagrawal/Mobile-Printer/blob/master/Snapshots/abstract.png)
 
-Snap 2:
+SnapShot 2:
 
 
 ![Snap 2](https://github.com/akulagrawal/Mobile-Printer/blob/master/Snapshots/snap1.jpg)
 
-Snap 3:
+SnapShot 3:
 
 
 ![Snap 3](https://github.com/akulagrawal/Mobile-Printer/blob/master/Snapshots/snap2.jpg)
